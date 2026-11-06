@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+beautified_*.js
+*.bundle.*
